@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Test command works\"",
+    "srv": "node server.js",
     "devsrv": "nodemon server.js"
   },
   "keywords": [],
